@@ -40,7 +40,7 @@ player_rect.centery = WINDOW_HEIGHT//2
 displayscreen.blit(player_image, player_rect)
 ```
 
-**_5. Game Assets_**:
+**_5. Game Assets:_**
     * [Icon Arachive:](https://iconarchive.com/) 提供很多遊戲角色下載
     *
     4. Leshy SFMAKER: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
