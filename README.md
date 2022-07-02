@@ -41,5 +41,5 @@ displayscreen.blit(player_image, player_rect)
 ```
 
 **_5. Game Assets:_** <br>
-    * [Icon Arachive:](https://iconarchive.com/) 提供很多遊戲角色下載 <br>
-    * [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲音效，也可以簡單自己製作音效
+[Icon Arachive:](https://iconarchive.com/) 提供很多遊戲角色下載 <br>
+[Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲音效，也可以簡單自己製作音效
