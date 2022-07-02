@@ -2,8 +2,8 @@
 
 
 #### 1.參考資料
-* Pygame Page: http://pygame.org
-* documentation: http://pygame.org/docs/ref
+ * Pygame Page: http://pygame.org
+ * documentation: http://pygame.org/docs/ref
 
 ------
 
