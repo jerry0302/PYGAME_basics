@@ -19,4 +19,6 @@
 **_3. PYGame Basics_**:
 | name | Description |
 |:-----:|:----------:|
-| _1.py_ | Create|
+| _1.py_ | Create my game surface, game loop and drawing.|
+| _2.py_ | Blit text, font, sound and image object.      |
+| _3.py_ | Getting user keyboard and collision dection.  |
