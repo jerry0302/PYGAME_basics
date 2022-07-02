@@ -3,9 +3,7 @@
 1. **參考資料**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref
-    3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
-    4. Leshy SFMAKER: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
-    5. ~XXXXX 忘記了~ <br><br>
+    3. ~XXXXX 忘記了~ <br><br>
 
 ------
 
@@ -40,3 +38,9 @@ player_rect.left    = 32
 player_rect.centery = WINDOW_HEIGHT//2
 ### while running~
 displayscreen.blit(player_image, player_rect)
+```
+
+**_5. Game Assets_**:
+    * [Icon Arachive:](https://iconarchive.com/) 提供很多遊戲角色下載
+    *
+    4. Leshy SFMAKER: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
