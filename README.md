@@ -16,4 +16,7 @@
   * Pygame提供許多內建的game objects來製作遊戲
 
 
-**_3. PYGAME
+**_3. PYGame Basics_**:
+| name | Description |
+|:-----:|:----------:|
+| _1.py_ | Create|
