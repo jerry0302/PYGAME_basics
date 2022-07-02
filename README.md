@@ -9,7 +9,7 @@
 ------
 
 **_2. What is pygame_**:
-  1. Pygame提供Display,Sound,Musuc,Image, Text, Event幫助製作遊戲
-  2. Pygame可以做出2.0小遊戲
-  3. Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
-  4. Pygame提供許多內建的game objects來製作遊戲
+  * Pygame提供Display,Sound,Musuc,Image, Text, Event幫助製作遊戲
+  * Pygame可以做出2.0小遊戲
+  * Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
+  * Pygame提供許多內建的game objects來製作遊戲
